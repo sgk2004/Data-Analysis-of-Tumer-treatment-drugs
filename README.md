@@ -1,3 +1,29 @@
+# Tasks
+
+•	Scatter plot that shows how the tumor volume changes over time for each treatment.
+
+•	Scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment.
+
+•	Scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
+
+•	Bar graph that compares the total % tumor volume change for each drug across the full 45 days.
+
+•	Three observations about the results of the study. Use the visualizations you generated from the study data as the basis for your observations.
+
+# Libraries used
+
+•	Used  Pandas Library and the Jupyter Notebook.
+
+•	Used the Matplotlib library.
+
+•	A written description of three observable trends based on the data.
+
+•	Proper labeling of plots, including aspects like: Plot Titles, Axes Labels, Legend Labels, X and Y Axis Limits, etc.
+
+•	Scatter plots includes error bars. This will allow the company to account for variability between mice. 
+
+
+
 # OBSERVATIONS
 
 The three observations about the results of the study showing how four treatments (Capomulin, Infubinol, Ketapril, and Placebo) compare.
